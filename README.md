@@ -1,6 +1,6 @@
 # fastapi-tortoise-api-blog
 
-API de Blog com FastAPI e Tortoise do canal https://youtube.com/@programadorpython
+API de Blog com FastAPI e Tortoise
 
 ### instalando dependencias
 ```
